@@ -1,0 +1,2 @@
+export PASSWORD_PEPPER=your_secret_pepper
+python3 app.py

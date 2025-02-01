@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+SQLAlchemy
+argon2-cffi
+Flask-Limiter
+Werkzeug
+
